@@ -1,0 +1,14 @@
+Pizza store
+
+digitalize the pizza creation
+
+This is not a design pattern, just programming idiom
+
+The PizzaStore is very popular and they want to start 
+franchize's in different parts
+
+But the franchize's have altered the way they make the pizzas
+And the owner doesn't want them to do it.
+
+The fm pattern defines an interface/ abstract for creating an object but lets
+subclass decide which class to instantiate.
